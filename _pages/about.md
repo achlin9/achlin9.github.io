@@ -18,10 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👦 About me
-I am a senior undergraduate student at the University Of Electronic Science And Technology Of China pursuing my B.E degree in Artificial Intelligence.
+I am a senior undergraduate student at the University Of Electronic Science And Technology Of China pursuing my B.E degree in Artificial Intelligence. I have a solid foundation in machine learning, deep learning, data mining, etc. I have studied offline reinforcement learning and tried to apply reinforcement learning to the field of quantitative investment under the guidance of Prof. Wen Li and Mentor Xiangyu Sun. This year, I also cooperated with the most famous medical research center in China, West China Hospital of Sichuan University, to explore machine learning research in healthcare. I am looking for a suitable tutor for my PhD study, if you are interested in me please contact me!
  <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
 
-My research areas include：
+My research interest includes：
 - Machine/Deep Learning
 - NLP
 - Reinforcement Learning
@@ -32,7 +32,7 @@ My research areas include：
 <span class='anchor' id='-xl'></span>
 
 # 🎓 EDUCATION
-- *2019.9 - Present*, <a href="https://en.uestc.edu.cn/"><img class="png" src="/images/logo.png" width="23pt"></a> University Of Electronic Science And Technology Of China, Chengdu, China<a href="https://www.usnews.com/education/best-global-universities/university-of-electronic-science-technology-of-china-506780#rankings">(See more on U.S.News Rankings)</a><br>
+- *2019.9 - Present*, <a href="https://en.uestc.edu.cn/"><img class="png" src="/images/logo.png" width="23pt"></a> University Of Electronic Science And Technology Of China, Chengdu, China<a href="https://www.usnews.com/education/best-global-universities/university-of-electronic-science-technology-of-china-506780#rankings"> (See more on U.S.News Rankings)</a><br>
 School of Computer Science and Engineering<br>
 Bachelor of Engineering in Artificial Intelligence
  
