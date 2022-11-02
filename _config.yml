@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yuanlin Duan"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/my_photo.jpg"
   bio              : "University Of Electronic Science And Technology Of China (UESTC)"
   location         : "Chengdu Sichuan, China"
   employer         : #"Hefei General Machinery Research Institute"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "achlin9"
+  github           : #"achlin9"
   google_plus      :
   keybase          :
   instagram        :

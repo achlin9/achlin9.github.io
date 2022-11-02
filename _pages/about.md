@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🎓 About me
+# 👦 About me
 I am a senior undergraduate student at the University Of Electronic Science And Technology Of China pursuing my B.E degree in Artificial Intelligence.
  <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
 
@@ -29,14 +29,13 @@ My research areas include：
 - Quantitative Finance
   
 
-
 <span class='anchor' id='-xl'></span>
 
 # 🎓 EDUCATION
-- *2019.9 - Present*, <a href="https://www.uestc.edu.cn/"><img class="png" src="/images/logo.png" width="23pt"></a> 
-Bachelor of Engineering in Artificial Intelligence
-University Of Electronic Science And Technology Of China
-School of Computer Science and Engineering    Chengdu, China
+- *2019.9 - Present*,<br> 
+Bachelor of Engineering in Artificial Intelligence<br>
+<a href="https://en.uestc.edu.cn/"><img class="png" src="/images/logo.png" width="23pt"></a> University Of Electronic Science And Technology Of China, Chengdu, China<br>
+School of Computer Science and Engineering
  
 <!-- <span class='anchor' id='-lwzl'></span>
 

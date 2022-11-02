@@ -1,19 +1,16 @@
 # main links links
 main:
-  - title: "简介"
-    url: "/zh-cn/#about-me"
+  - title: "About me"
+    url: "/achlin9/#about-me"
 
-  - title: "学历"
-    url: "/zh-cn/#-xl"
+  - title: "EDUCATION"
+    url: "/achlin9/#-xl"
 
-  - title: "论文专利"
-    url: "/zh-cn/#-lwzl"
+  - title: "ACADEMIC EXPERIENCE"
+    url: "/achlin9/#-xsjl"
 
-  - title: "荣誉奖项"
-    url: "/zh-cn/#-ryjx"
+  - title: "INTERNSHIP EXPERIENCE"
+    url: "/achlin9/#-gzsx"
 
-  - title: "学术会议"
-    url: "/zh-cn/#-xshy"
-
-  - title: "工作实习"
-    url: "/zh-cn/#-gzsx"
+  - title: "AWARDS & HONORS"
+    url: "/achlin9/#-ryjx"
