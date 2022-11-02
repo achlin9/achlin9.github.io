@@ -32,9 +32,9 @@ My research areas include：
 <span class='anchor' id='-xl'></span>
 
 # 🎓 EDUCATION
-- *2019.9 - Present*, Bachelor of Engineering in Artificial Intelligence<br>
-<a href="https://en.uestc.edu.cn/"><img class="png" src="/images/logo.png" width="23pt"></a> University Of Electronic Science And Technology Of China, Chengdu, China<br>
-School of Computer Science and Engineering
+- *2019.9 - Present*, <a href="https://en.uestc.edu.cn/"><img class="png" src="/images/logo.png" width="23pt"></a> University Of Electronic Science And Technology Of China, Chengdu, China<br>
+School of Computer Science and Engineering<br>
+Bachelor of Engineering in Artificial Intelligence
  
 <!-- <span class='anchor' id='-lwzl'></span>
 

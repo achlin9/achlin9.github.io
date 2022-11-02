@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "About me"
-    url: "/achlin9/#about-me"
+    url: "/#about-me"
 
   - title: "EDUCATION"
-    url: "/achlin9/#-xl"
+    url: "/#-xl"
 
   - title: "ACADEMIC EXPERIENCE"
-    url: "/achlin9/#-xsjl"
+    url: "/#-xsjl"
 
   - title: "INTERNSHIP EXPERIENCE"
-    url: "/achlin9/#-gzsx"
+    url: "/#-gzsx"
 
   - title: "AWARDS & HONORS"
-    url: "/achlin9/#-ryjx"
+    url: "/#-ryjx"
