@@ -73,21 +73,33 @@ Bachelor of Engineering in Artificial Intelligence
 
 # 🏛️ ACADEMIC EXPERIENCE
 - *2022.6 - 2022.10*, General Medical Center of West China Hospital, Sichuan University, Chengdu, China
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sichuan</div><img src='images/Huaxi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mediation effect map</div><img src='images/Huaxi.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+- Used machine learning (Cox conditional regression, logistic regression, etc.) and big data analysis techniques
+(association analysis) to study sarcopenia-associated disease evolution trajectories and comorbidity networks
+
+- Studied the mediating effects of metabolites and biomarkers on the effects of night shift to reproductive diseases
+
+- Used machine learning (SVM, SOM, KNN, random forest, and other algorithms) and deep learning (Lenet, RNN,
+GRU, Generative Adversarial Networks) on the MRI dataset of Alzheimer's dataset, obsessive-compulsive disorder
+dataset, frontotemporal dementia dataset processing and analysis
+
 
 </div>
 </div>
 
 - *2020.9 - 2022.5*, UESTC Data Intelligence Group <a href="https://diggers.ai/">(https://diggers.ai/)</a>, Chengdu, China
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sichuan</div><img src='images/Huaxi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reinforcement Learning Quantization</div><img src='images/RL_stock.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+-	Mastered the fundamentals of reinforcement learning, including Dynamic Programming, the Markov Model, Monte
+Carlo methods, Temporal-difference, and A-C architectures, etc.
+- Reproduced classic deep reinforcement learning algorithms, including DQN, PPO, A2C, DDPG, TD3, etc.
+- Delved into the field of offline reinforcement learning, read a lot of papers, and tried to reproduce the results of these
+papers
+- Tried to combine reinforcement learning with quantitative finance, and independently completed reinforcement learning
+experiments in the quantitative field
 
 </div>
 </div>
