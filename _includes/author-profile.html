@@ -31,6 +31,9 @@
       {% if author.email %}
         <li><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email: {{ author.email }}</a></li>
       {% endif %}
+      {% if author.WeChat %}
+      <li><i class="fa fa-comments" aria-hidden="true"></i> WeChat: {{ author.WeChat }}</a></li>
+    {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
