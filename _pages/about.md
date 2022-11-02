@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
+<!-- {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 
 <span class='anchor' id='about-me'></span>
 
@@ -32,8 +32,7 @@ My research areas include：
 <span class='anchor' id='-xl'></span>
 
 # 🎓 EDUCATION
-- *2019.9 - Present*,<br> 
-Bachelor of Engineering in Artificial Intelligence<br>
+- *2019.9 - Present*, Bachelor of Engineering in Artificial Intelligence<br>
 <a href="https://en.uestc.edu.cn/"><img class="png" src="/images/logo.png" width="23pt"></a> University Of Electronic Science And Technology Of China, Chengdu, China<br>
 School of Computer Science and Engineering
  
@@ -73,15 +72,15 @@ School of Computer Science and Engineering
 <span class='anchor' id='-xsjl'></span>
 
 # 🏛️ ACADEMIC EXPERIENCE
-- *2022.6 - 2022.10*, General Medical Center of West China Hospital, Sichuan University Chengdu, China
-- *2020.9 - 2022.5*, UESTC Data Intelligence Group <a href="https://diggers.ai/"></a>(https://diggers.ai/) Chengdu, China
+- *2022.6 - 2022.10*, General Medical Center of West China Hospital, Sichuan University, Chengdu, China
+- *2020.9 - 2022.5*, UESTC Data Intelligence Group <a href="https://diggers.ai/">(https://diggers.ai/)</a>, Chengdu, China
 
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 INTERNSHIP EXPERIENCE
 - *2021.6 - 2021.8*, ByteDance, Chengdu, China
 - *2021.7 - 2021.9*, Hunan Huaxi Asset Management Co., Ltd, Chengdu, China
-- *2020.12 - 2021.3*, Luzhou Changjiang Engineering Mechanical Complete Equipment Co., Ltd, Chengdu, China
+- *2020.12 - 2021.3*, Luzhou Changjiang Engineering Mechanical Complete Equipment Co., Ltd, Luzhou, China
 
 
 <span class='anchor' id='-ryjx'></span>
@@ -91,4 +90,4 @@ School of Computer Science and Engineering
 - 2020-2021 Pacesetter Student Scholarship of UESTC
 - 2019-2020 Pacesetter Student Scholarship of UESTC
 - Third Prize in 2020 UESTC MCM/ICM
-- Best debater in freshman debate competition
+- Best debater in freshman debate competition of UESTC
