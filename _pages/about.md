@@ -31,7 +31,7 @@ My research interest includes：
 
 <span class='anchor' id='-xl'></span>
 
-# EDUCATION
+# Education
 - *2019.9 - Present*, <a href="https://en.uestc.edu.cn/"><img class="png" src="/images/logo.png" width="23pt"></a> University Of Electronic Science And Technology Of China, Chengdu, China <a href="https://www.usnews.com/education/best-global-universities/university-of-electronic-science-technology-of-china-506780#rankings">(See more on U.S.News Rankings)</a><br>
 School of Computer Science and Engineering<br>
 Bachelor of Engineering in Artificial Intelligence
@@ -71,7 +71,7 @@ Bachelor of Engineering in Artificial Intelligence
 
 <span class='anchor' id='-xsjl'></span>
 
-# ACADEMIC EXPERIENCE
+# Academic Experience
 - *2022.6 - 2022.10*, General Medical Center of West China Hospital, Sichuan University, Chengdu, China
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mediation effect map</div><img src='images/Huaxi.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -106,7 +106,7 @@ experiments in the quantitative field
 
 <span class='anchor' id='-gzsx'></span>
 
-# INTERNSHIP EXPERIENCE
+# Intership Experience
 - *2021.6 - 2021.8*, ByteDance, Chengdu, China
 - *2021.7 - 2021.9*, Hunan Huaxi Asset Management Co., Ltd, Chengdu, China
 - *2020.12 - 2021.3*, Luzhou Changjiang Engineering Mechanical Complete Equipment Co., Ltd, Luzhou, China
@@ -114,9 +114,8 @@ experiments in the quantitative field
 
 <span class='anchor' id='-ryjx'></span>
 
-# AWARDS & HONORS
+# Awards & Honors
 - Best Camper of ByteDance Technical Training Camp
 - 2020-2021 Pacesetter Student Scholarship of UESTC
 - 2019-2020 Pacesetter Student Scholarship of UESTC
-- Third Prize in 2020 UESTC MCM/ICM
 - Best debater in freshman debate competition of UESTC
