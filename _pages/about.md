@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# About me
+# ABOUT ME
 I am a senior undergraduate student at the University Of Electronic Science And Technology Of China pursuing my B.E degree in Artificial Intelligence. I have a solid foundation in machine learning, deep learning, data mining, etc. I have studied offline reinforcement learning and tried to apply reinforcement learning to the field of quantitative investment under the guidance of Prof. Wen Li and Mentor Xiangyu Sun. This year, I also cooperated with the most famous medical research center in China, West China Hospital of Sichuan University, to explore machine learning research in healthcare. I already have IELTS and GRE scores of 7 and 321 respectively and I am looking for a suitable advisor for my PhD study, if you are interested in me please contact me!
  <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
 
@@ -31,7 +31,7 @@ My research interest includes：
 
 <span class='anchor' id='-xl'></span>
 
-# Education
+# EDUCATION
 - *2019.9 - Present*, <a href="https://en.uestc.edu.cn/"><img class="png" src="/images/logo.png" width="23pt"></a> University Of Electronic Science And Technology Of China, Chengdu, China <a href="https://www.usnews.com/education/best-global-universities/university-of-electronic-science-technology-of-china-506780#rankings">(See more on U.S.News Rankings)</a><br>
 School of Computer Science and Engineering<br>
 Bachelor of Engineering in Artificial Intelligence
@@ -71,7 +71,7 @@ Bachelor of Engineering in Artificial Intelligence
 
 <span class='anchor' id='-xsjl'></span>
 
-# Academic Experience
+# ACADEMIC EXPERIENCE
 - *2022.6 - 2022.10*, General Medical Center of West China Hospital, Sichuan University, Chengdu, China
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mediation effect map</div><img src='images/Huaxi.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -106,7 +106,7 @@ experiments in the quantitative field
 
 <span class='anchor' id='-gzsx'></span>
 
-# Intership Experience
+# INTERNSHIP EXPERIENCE
 - *2021.6 - 2021.8*, ByteDance, Chengdu, China
 - *2021.7 - 2021.9*, Hunan Huaxi Asset Management Co., Ltd, Chengdu, China
 - *2020.12 - 2021.3*, Luzhou Changjiang Engineering Mechanical Complete Equipment Co., Ltd, Luzhou, China
@@ -114,7 +114,7 @@ experiments in the quantitative field
 
 <span class='anchor' id='-ryjx'></span>
 
-# Awards & Honors
+# AWARDS & HONORS
 - Best Camper of ByteDance Technical Training Camp
 - 2020-2021 Pacesetter Student Scholarship of UESTC
 - 2019-2020 Pacesetter Student Scholarship of UESTC
