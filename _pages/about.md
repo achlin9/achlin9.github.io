@@ -98,8 +98,7 @@ Carlo methods, Temporal-difference, and A-C architectures, etc.
 - Reproduced classic deep reinforcement learning algorithms, including DQN, PPO, A2C, DDPG, TD3, etc.
 - Delved into the field of offline reinforcement learning, read a lot of papers, and tried to reproduce the results of these
 papers
-- Tried to combine reinforcement learning with quantitative finance, and independently completed reinforcement learning
-experiments(DRQN + Conventional Strategy Filter) in the quantitative field
+- Research how to enhance the reliability of reinforcement learning in quantitative investment (DRQN + Conventional Strategy Filter)
 
 </div>
 </div>
