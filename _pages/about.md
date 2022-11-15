@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # ABOUT ME
-I am a senior undergraduate student at the University of Electronic Science and Technology of China pursuing my B.E degree in Artificial Intelligence. I have a solid foundation in machine learning, deep learning, data mining, etc. I have studied offline reinforcement learning and tried to apply reinforcement learning to the field of quantitative investment under the guidance of Prof. Wen Li and Mentor Xiangyu Sun. This year, I also cooperated with the most famous medical research center in China, West China Hospital of Sichuan University, to explore machine learning research in healthcare. I already have IELTS and GRE scores of 7 and 321 respectively and I am looking for a suitable advisor for my PhD study, if you are interested in me please contact me!
+I am a senior undergraduate student at the University of Electronic Science and Technology of China pursuing my B.E degree in Artificial Intelligence. I have a solid foundation in machine learning, deep learning, reinforcement learning, etc. I have studied the application of reinforcement learning in the field of quantification under the guidance of Prof. Wen Li and Mentor Xiangyu Sun. This year, I also cooperated with the most famous medical research center in China, West China Hospital of Sichuan University, to explore machine learning research in healthcare. I'm a proficient programmer (completed a project of more than 10,000 lines independently). I already have IELTS and GRE scores of 7 and 321 respectively and I am looking for a suitable advisor for my PhD study, if you are interested in me please contact me!
  <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
 
 My research interest includes：
@@ -90,7 +90,7 @@ dataset, frontotemporal dementia dataset processing and analysis
 </div>
 
 - *2020.9 - 2022.5*, UESTC Data Intelligence Group <a href="https://diggers.ai/">(https://diggers.ai/)</a>, Chengdu, China
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reinforcement Learning Quantization</div><img src='images/RL_stock.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reinforcement Learning Quantization</div><img src='images/DRQN_Stock.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Mastered the fundamentals of reinforcement learning, including Dynamic Programming, the Markov Model, Monte
@@ -99,7 +99,7 @@ Carlo methods, Temporal-difference, and A-C architectures, etc.
 - Delved into the field of offline reinforcement learning, read a lot of papers, and tried to reproduce the results of these
 papers
 - Tried to combine reinforcement learning with quantitative finance, and independently completed reinforcement learning
-experiments in the quantitative field
+experiments(DRQN + Conventional Strategy Filter) in the quantitative field
 
 </div>
 </div>
