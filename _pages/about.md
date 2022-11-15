@@ -90,7 +90,7 @@ dataset, frontotemporal dementia dataset processing and analysis
 </div>
 
 - *2020.9 - 2022.5*, UESTC Data Intelligence Group <a href="https://diggers.ai/">(https://diggers.ai/)</a>, Chengdu, China
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reinforcement Learning Quantization</div><img src='images/DRQN_Stock.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DRQN + Conventional Strategy Filter</div><img src='images/DRQN_Stock.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Mastered the fundamentals of reinforcement learning, including Dynamic Programming, the Markov Model, Monte
