@@ -82,7 +82,7 @@ Bachelor of Engineering in Artificial Intelligence
 - Studied the mediating effects of metabolites and biomarkers on the effects of night shift to reproductive diseases
 
 - Used machine learning (SVM, SOM, KNN, random forest, and other algorithms) and deep learning (Lenet, RNN,
-GRU, Generative Adversarial Networks) on the MRI dataset of Alzheimer's dataset, obsessive-compulsive disorder
+Lstm, Generative Adversarial Networks) on the MRI dataset of Alzheimer's dataset, obsessive-compulsive disorder
 dataset, frontotemporal dementia dataset processing and analysis
 
 
