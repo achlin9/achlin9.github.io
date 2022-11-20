@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # ABOUT ME
-I am a senior undergraduate student at the University of Electronic Science and Technology of China pursuing my B.E degree in Artificial Intelligence. I have a solid foundation in machine learning, deep learning, reinforcement learning, etc. I have studied the application of reinforcement learning in the field of quantification under the guidance of Prof. Wen Li and Mentor Xiangyu Sun. This year, I also cooperated with the most famous medical research center in China, West China Hospital of Sichuan University, to explore machine learning research in healthcare. I'm a proficient programmer (have completed a project of more than 10,000 lines independently). I already have IELTS and GRE scores of 7 and 321 respectively.
+I am a senior undergraduate student at the University of Electronic Science and Technology of China pursuing my B.E degree in Artificial Intelligence. I have a solid foundation in machine learning, deep learning, reinforcement learning, etc. I have studied the application of reinforcement learning in the field of quantification under the guidance of Prof. Wen Li and Mentor Xiangyu Sun. This year, I also cooperated with the most famous medical research center in China, West China Hospital of Sichuan University, to explore machine learning research in healthcare. I'm a proficient programmer (have completed a project of more than 10,000 lines independently).
  <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
 
 My research interest includes：
@@ -76,7 +76,7 @@ Bachelor of Engineering in Artificial Intelligence
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mediation effect map</div><img src='images/Huaxi.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Used machine learning (Cox conditional regression, logistic regression, etc.) and big data analysis techniques
+- Used machine learning (Cox regression model, logistic regression, etc.) and big data analysis techniques
 (association analysis) to study sarcopenia-associated disease evolution trajectories and comorbidity networks
 
 - Studied the mediating effects of metabolites and biomarkers on the effects of night shift to reproductive diseases
@@ -90,15 +90,13 @@ dataset, frontotemporal dementia dataset processing and analysis
 </div>
 
 - *2020.9 - 2022.5*, UESTC Data Intelligence Group <a href="https://diggers.ai/">(https://diggers.ai/)</a>, Chengdu, China
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DRQN + Conventional Strategy Filter</div><img src='images/DRQN_Stock.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Double DRQN + Conventional Shape Filter</div><img src='images/DRQN_Stock.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Mastered the fundamentals of reinforcement learning, including Dynamic Programming, the Markov Model, Monte
 Carlo methods, Temporal-difference, and A-C architectures, etc.
 - Reproduced classic deep reinforcement learning algorithms, including DQN, PPO, A2C, DDPG, TD3, etc.
-- Delved into the field of offline reinforcement learning, read a lot of papers, and tried to reproduce the results of these
-papers
-- Research how to enhance the reliability of reinforcement learning in quantitative investment field (DRQN + Conventional Strategy Filter)
+- Research how to enhance the reliability of reinforcement learning in quantitative investment field (Double DRQN + Conventional Shape Filter)
 
 </div>
 </div>
