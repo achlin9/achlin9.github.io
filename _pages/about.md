@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # ABOUT ME
-I am a senior undergraduate student at the University of Electronic Science and Technology of China pursuing my B.E degree in Artificial Intelligence. I have a solid foundation in machine learning, deep learning, reinforcement learning, etc. I have studied the application of reinforcement learning in the field of quantification under the guidance of Prof. Wen Li and Mentor Xiangyu Sun. This year, I also cooperated with the most famous medical research center in China, West China Hospital of Sichuan University, to explore machine learning research in healthcare. I'm a proficient programmer (have completed a project of more than 10,000 lines independently).
+I am a senior undergraduate student at the University of Electronic Science and Technology of China pursuing my B.E degree in Artificial Intelligence. I have a solid foundation in machine learning, deep learning, reinforcement learning, etc. I have studied the application of reinforcement learning in the field of quantification under the guidance of Prof. Wen Li and Mentor Xiangyu Sun. This year, I also cooperated with the most famous medical research center in China, West China Hospital of Sichuan University, to explore machine learning research in healthcare. I'm a proficient programmer  (independently completed a project of more than 10,000 lines)
  <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
 
 My research interest includes：
