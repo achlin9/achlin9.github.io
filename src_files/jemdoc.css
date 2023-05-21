@@ -1,5 +1,10 @@
 /* Default css file for jemdoc. */
 
+table#tlayout {
+    border: none;
+    border-collapse: separate;
+    background: white;
+}
 /*
 body {
 	background: white;
@@ -353,6 +358,10 @@ img.eqwl {
 	margin: 0;
 }
 
+table + table {
+    margin-top: 1em;
+}
+
 tr.heading {
     font-weight: bold;
     border-bottom: 2px solid black;
@@ -360,4 +369,9 @@ tr.heading {
 
 img {
     border: none;
+}
+
+table.imgtable, table.imgtable td {
+    border: none;
+    text-align: left;
 }
